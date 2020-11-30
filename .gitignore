@@ -2,7 +2,6 @@ Vtuber/Library/
 Vtuber/Temp/
 Vtuber/Packages/
 Vtuber/Logs/Packages-Update.log
-Vtuber/Assets/uScriptProjectFiles/uScripts/
 Vtuber/Assets/uScript/
 Vtuber/Assets/CVVTuberExample/
 Vtuber/Assets/DlibFaceLandmarkDetector/
@@ -17,7 +16,6 @@ Vtuber/Assets/CVVTuberExample.meta
 Vtuber/Assets/OpenCVForUnity.meta
 Vtuber/Assets/UnityChan.meta
 Vtuber/Assets/uScript.meta
-Vtuber/Assets/uScriptProjectFiles/
 Dlib.unitypackage
 OpenCV.unitypackage
 Vtuber.rar
