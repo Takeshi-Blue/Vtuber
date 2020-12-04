@@ -1357,6 +1357,8 @@
      <Compile Include="Assets\uScript\uScriptRuntime\Nodes\Events\uScript_Visibility.cs" />
      <Compile Include="Assets\uScriptProjectFiles\uScripts\_GeneratedCode\DB_state.cs" />
      <Compile Include="Assets\uScriptProjectFiles\uScripts\_GeneratedCode\DB_state_Component.cs" />
+     <Compile Include="Assets\uScriptProjectFiles\uScripts\_GeneratedCode\Play_anim.cs" />
+     <Compile Include="Assets\uScriptProjectFiles\uScripts\_GeneratedCode\Play_anim_Component.cs" />
      <Compile Include="Assets\uScriptProjectFiles\uScripts\_GeneratedCode\randomraycast_addobj.cs" />
      <Compile Include="Assets\uScriptProjectFiles\uScripts\_GeneratedCode\randomraycast_addobj_Component.cs" />
      <Compile Include="Assets\uScriptProjectFiles\uScripts\_GeneratedCode\tmn_open.cs" />
